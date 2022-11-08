@@ -45,8 +45,8 @@ global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
+global.nomorown = '62895375970901'
+global.namebot = 'Zull Real'
 global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 
 
